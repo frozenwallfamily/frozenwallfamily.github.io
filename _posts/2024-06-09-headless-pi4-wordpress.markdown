@@ -1,19 +1,16 @@
 ---
 layout: post
 title:  "Setting Up a Headless Raspberry Pi 4 Running WordPress"
-date:   2024-06-09 14:54:55 +1200
+date:   2024-06-09 +1200
 categories: jekyll update
 ---
 
-Sure, here's a detailed blog post on setting up a headless Raspberry Pi 4 running WordPress:
-
----
-
-## Setting Up a Headless Raspberry Pi 4 Running WordPress
 
 The Raspberry Pi 4 is a versatile single-board computer that can be used for a variety of projects, including running a WordPress website. Setting it up in headless mode means you can manage it without needing a direct monitor, keyboard, or mouse connection. Here's a step-by-step guide on how to do it.
 
 ### Prerequisites
+
+
 
 1. **Raspberry Pi 4**
 2. **microSD Card (16GB or larger)**
