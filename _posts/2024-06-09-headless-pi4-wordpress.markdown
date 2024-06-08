@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting Up a Headless Raspberry Pi 4 Running WordPress"
-date:   2024-06-09 +1200
+date:   2024-06-09 03:54:55 +1200
 categories: jekyll update
 ---
 
